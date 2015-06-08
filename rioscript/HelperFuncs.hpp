@@ -1,5 +1,4 @@
 //--------------------------------------------------------------- @License begins
-// "FSXAssistant"
 // 2015 Leopoldo Lomas Flores. Torreon, Coahuila. MEXICO
 // leopoldolomas [at] gmail
 // www.leopoldolomas.info
