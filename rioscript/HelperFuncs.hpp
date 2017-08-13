@@ -1,7 +1,7 @@
 //--------------------------------------------------------------- @License begins
 // 2015 Leopoldo Lomas Flores. Torreon, Coahuila. MEXICO
 // leopoldolomas [at] gmail
-// www.leopoldolomas.info
+// www.leolomas.com
 // 
 // This is free and unencumbered software released into the public domain.
 // 
